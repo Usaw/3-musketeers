@@ -54,3 +54,15 @@ Note: you can download them separatly if needed
 As you will see on your comand line, you have several options to in odrer to make the library work, as you can see on the screen below.
 
 ![screen](./index.png)
+
+The first variable correspond to the amount of money that you want to convert, and the second represent your currency.
+
+## If you want to change your output
+
+* Check the currencies.json file on the cash/lib folder to see which currencies are availiable.
+* Execute the index.js file with the --save option, and choose the number and type of currencies.
+
+```sh
+❯ cd /path/to/bin/workspace
+❯ node index.js --save *currency types needed , separated with a space*
+```
