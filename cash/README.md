@@ -42,7 +42,7 @@ Therefore, you have to install them with your cmd:
 ```
 Note: you can download them separatly if needed
 
-## How to I run the code?
+## How do I run the code?
 
 * Open your comand line and go to the bin file
 * Launch the index.js
